@@ -1,6 +1,6 @@
 # BitTorrent Client
 
-This is my solution for building your own bittorrent client.
+Just exploring and building a basic version of bittorrent by reading docs and online forums.
 
 ---
 
